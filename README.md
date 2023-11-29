@@ -1,3 +1,6 @@
+# Next JS Routing
+A simple web application hosted on Vercel using Next JS and Tailwind CSS that demonstrates routing within a Next JS application.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
